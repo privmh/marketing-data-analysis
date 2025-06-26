@@ -21,9 +21,7 @@ This project is an end-to-end marketing data analysis focused on customer segmen
 - Visualization and insight generation
 
 ## 💡 Key Insights
-- High income and high engagement segments are most responsive
-- Deal seekers and high spenders show strong campaign interest
-- Customers aged 30–50 respond more actively than younger or elderly groups
+
 
 ## 🚀 How to Run
 1. Clone the repository:
