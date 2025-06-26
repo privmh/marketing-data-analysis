@@ -1,4 +1,4 @@
-# marketing-data-analysis
+# Marketing Data Analysis
 This project is an end-to-end marketing data analysis focused on customer segmentation and campaign performance. Using a real-world marketing dataset, the analysis aims to uncover insights about customer demographics, spending behavior, and engagement with marketing campaigns.
 
 ## 📊 Objectives
@@ -21,7 +21,11 @@ This project is an end-to-end marketing data analysis focused on customer segmen
 - Visualization and insight generation
 
 ## 💡 Key Insights
-
+- Customer Demographics & Segmentation
+- Income & Spending Behavior
+- Product & Channel Preferences
+- Engagement Behavior
+- Campaign Performance
 
 ## 🚀 How to Run
 1. Clone the repository:
