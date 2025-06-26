@@ -20,6 +20,23 @@ This project is an end-to-end marketing data analysis focused on customer segmen
 - Campaign performance analysis
 - Visualization and insight generation
 
+## 💡 Key Insights
+- High income and high engagement segments are most responsive
+- Deal seekers and high spenders show strong campaign interest
+- Customers aged 30–50 respond more actively than younger or elderly groups
 
+## 🚀 How to Run
+1. Clone the repository:
 
+git clone https://github.com/privmh/marketing-data-analysis.git
 
+2. Install dependencies:
+
+pip install -r requirements.txt
+
+3. Run the notebook:
+
+jupyter notebook notebooks/marketing_analysis.ipynb
+
+## 📜 License
+MIT License
