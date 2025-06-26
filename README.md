@@ -1,7 +1,7 @@
 # marketing-data-analysis
 This project is an end-to-end marketing data analysis focused on customer segmentation and campaign performance. Using a real-world marketing dataset, the analysis aims to uncover insights about customer demographics, spending behavior, and engagement with marketing campaigns.
 
-##🛍️ Marketing Data Analysis Project
+## 🛍️ Marketing Data Analysis Project
 
 This project performs an end-to-end analysis of a marketing campaign dataset. It includes data cleaning, feature engineering, segmentation, and campaign response insights.
 
