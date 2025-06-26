@@ -12,8 +12,8 @@ This project performs an end-to-end analysis of a marketing campaign dataset. It
 - Derive actionable marketing insights
 
 ## 📁 Project Structure
-- `notebooks/`: Jupyter Notebook with all analysis and visualizations
-- `data/`: Raw dataset (or link to source)
+- `script/`: Jupyter Notebook with all analysis and visualizations
+- `dataset/`:(https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 - `images/`: Exported charts for use in reports
 - `outputs/`: Cleaned/processed data (optional)
 
