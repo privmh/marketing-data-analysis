@@ -1,0 +1,9 @@
+## Export your environment:
+  pip freeze > requirements.txt
+
+## Or manually create:
+  pandas
+  numpy
+  matplotlib
+  seaborn
+  jupyter
