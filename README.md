@@ -13,9 +13,9 @@ This project performs an end-to-end analysis of a marketing campaign dataset. It
 
 ## 📁 Project Structure
 - `script/`: Jupyter Notebook with all analysis and visualizations
-- `dataset/`:(https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+- `dataset/`:https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 - `images/`: Exported charts for use in reports
-- `outputs/`: Cleaned/processed data (optional)
+- `dict/`: Metadata
 
 ## 🔧 Key Techniques Used
 - Pandas, NumPy, Seaborn, Matplotlib
